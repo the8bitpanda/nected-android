@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "567389598526",
+    "firebase_url": "https://nected-ab87c.firebaseio.com",
+    "project_id": "nected-ab87c",
+    "storage_bucket": "nected-ab87c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567389598526:android:a14ed54023997893",
+        "android_client_info": {
+          "package_name": "com.eightbitpanda.nected"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567389598526-nr106jucv7pb5rlshok30oqlo7855q4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eightbitpanda.nected",
+            "certificate_hash": "261bc2b0e20acb775a99365b1695f231fcec89a7"
+          }
+        },
+        {
+          "client_id": "567389598526-1s7900i113c34glkd39e17j54kvg40ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0FtWthIWKtLtX0QyCuq976QnieExg7-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567389598526-1s7900i113c34glkd39e17j54kvg40ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

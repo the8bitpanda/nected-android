@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nected</string>
+    <string name="gettingStartedHeader">Welcome to Nected</string>
+    <string name="gettingStartedSubHeader">Data across devices connected seamlessly</string>
+    <string name="splash_icon_description">Splash Icon</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
